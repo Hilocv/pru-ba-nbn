@@ -4,7 +4,7 @@ Desarrollador : AresDza !
 
 Crea tu Buscador de Proxy en Telegram ...
 
-Contacta con @AresDza en Telegram para comprar el acceso para poder tener tu propio bot..
+Contacta con @nautaii en Telegram para comprar el acceso para poder tener tu propio bot..
 
 Actualmente en la Version V1 ...
 
